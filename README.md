@@ -3,17 +3,20 @@
   <img width="800px" height="350px" src="1giphy.gif" alt="hello">
 </p>
 
-<!--
-**David-codes0/David-codes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##         I'm a Mobile Developer and an Hardware ethusiast, I build scalable mobile application for all platforms
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Movie app**
+
+- 🌱 I’m currently learning **Flutter bloc library**
+
+- 👯 I’m looking to collaborate on **Your flutter projects**
+
+- 💬 Ask me about **Dart,Flutter**
+
+- ⚡ Fun fact **I too Hardworking**
+
+### 📫 Where to find me
+- [Twitter](https://twitter.com/Adebayo17108247) 🐤
+- [LinkedIn](https://www.linkedin.com/in/david-adebayo-94a5b816b/)👨💼
+-  **davidadebayo17108247@gmail.com , +2349039072131**  
