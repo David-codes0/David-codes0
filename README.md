@@ -1,8 +1,8 @@
 
-
 <p align="center">
   <img width="800px" height="350px" src="1giphy.gif" alt="hello">
 </p>
+
 <!--
 **David-codes0/David-codes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
