@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi Friends 👋 I'm David
 <!--
 **David-codes0/David-codes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
