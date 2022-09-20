@@ -14,9 +14,13 @@
 
 - 💬 Ask me about **Dart,Flutter**
 
-- ⚡ Fun fact **I too Hardworking**
+- ⚡ Fun fact **I like Hardworking in other to make my dream come true**
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/Adebayo17108247) 🐤
 - [LinkedIn](https://www.linkedin.com/in/david-adebayo-94a5b816b/)👨💼
 -  **davidadebayo17108247@gmail.com , +2349039072131**  
+
+
+[![Taiwo's github stats](https://github-readme-stats.vercel.app/api?username=David-codes0&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-codes0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
