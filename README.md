@@ -22,7 +22,7 @@
 -  **davidadebayo17108247@gmail.com , +2349039072131**  
 
 
-[![Taiwo's github stats](https://github-readme-stats.vercel.app/api?username=David-codes0&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![David's github stats](https://github-readme-stats.vercel.app/api?username=David-codes0&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-codes0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
