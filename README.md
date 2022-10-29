@@ -1,7 +1,7 @@
 
-<p align="center">
+<!-- <p align="center">
   <img width="800px" height="350px" src="1giphy.gif" alt="hello">
-</p>
+</p> -->
 
 ##         I'm a Mobile Developer and an Hardware ethusiast, I build scalable mobile application for all platforms
 
