@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter bloc library**
+- 🌱 I’m currently building flutter app with **Flutterflow**
 
 - 👯 I’m looking to collaborate on **Your flutter and flutterflow projects**
 
