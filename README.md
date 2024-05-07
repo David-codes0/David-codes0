@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Your flutter and flutterflow projects**
 
-- 💬 Ask me about **Dart,Flutter**
+- 💬 Ask me about **Dart,Flutter and Flutterflow**
 
 - ⚡ Fun fact **I like Hardworking in other to make my dream come true**
 
