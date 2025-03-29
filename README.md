@@ -15,10 +15,10 @@
 
 - ⚡ Fun fact **I like Hardworking in other to make my dream come true**
 
-### 📫 Where to get me
+<!-- ### 📫 Where to get me
 - [Twitter](https://twitter.com/Adebayo17108247) 🐤
 - [LinkedIn](https://www.linkedin.com/in/david-adebayo-94a5b816b/)👨💼
--  **davidadebayo17108247@gmail.com , +2349039072131**  
+-  **davidadebayo17108247@gmail.com , +2349039072131**  -->
 
 
 
